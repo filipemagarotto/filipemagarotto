@@ -66,7 +66,7 @@
   <code><img title="GitHub" height="30" src="images/github.svg">  </code>
   <code><img title="MySQL" height="30" src="images/mysql.svg">  </code>
   <code><img title="npm" height="30" src="images/npm.svg">  </code>
-  <code><img title="python" height="30" src="images/python.svg">  </code> 
+  <code><img title="python" height="30" src="images/python-original.svg">  </code> 
  <code><img title="php" height="30" src="images/php.svg">  </code> 
 
 </div>
@@ -80,7 +80,7 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/filipemagarotto/projeto_cenipa" title="Algorithms"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=filipemagarotto&repo=projeto_cenipa&theme=react&border_color=61dafb&border_radius=10%22%3E</a>
+
 </div>
 <br/>
 <div width="100%" align="center">
