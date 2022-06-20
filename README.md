@@ -36,7 +36,9 @@
 <h5 align="center">
 <br>
   <code>
-    <a href="https://www.linkedin.com/in/filipe-magarotto-46b0171b0/" title="LinkedIn Profile"><img width="40" src="images/linkedin.svg"></a> </code>
+    <a href="https://www.linkedin.com/in/filipe-magarotto-46b0171b0/" title="LinkedIn Profile"><img width="40" src="images/linkedin.svg"></a>
+                                                                                                                                        </code>
+                                                                                                                                        <code><a href="https://www.instagram.com/filipemagarotto/" title="Instagram Profile"><img width="40" src="images/instagram.svg"></a></code>
 </h5>
 <h2 align="center"> Filipe Magarotto </h2>
 
@@ -57,15 +59,15 @@
   <code><img title="Javascript" height="30" src="images/javascript.svg">  </code>
   <code><img title="HTML5" height="30" src="images/html5.svg">  </code>
   <code><img title="CSS" height="30" src="images/css.svg">  </code>
-  <code><img title="SASS" height="30" src="images/sass.svg">  </code>
   <code><img title="Git" height="30" src="images/git-original.svg"> </code>
-  <code><img title="Visual Studio Code" height="30" src="images/vscode.png">  </code>
   <code><img title="JQuery" height="30" src="images/jquery-original.svg"> </code>
   <code><img title="Java" height="30" src="images/java-original.svg"> </code>
   <code><img title="JSON" height="30" src="images/json.svg">  </code>
   <code><img title="GitHub" height="30" src="images/github.svg">  </code>
   <code><img title="MySQL" height="30" src="images/mysql.svg">  </code>
   <code><img title="npm" height="30" src="images/npm.svg">  </code>
+  <code><img title="python" height="30" src="images/python.svg">  </code> 
+ <code><img title="php" height="30" src="images/php.svg">  </code> 
 
 </div>
 
