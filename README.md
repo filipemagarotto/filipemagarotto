@@ -81,7 +81,7 @@
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/filipemagarotto/projeto_cenipa" title="Projeto CENIPA">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/username=filipemagarotto&repo=projeto_cenipa&theme=react&border_color=61dafb&border_radius=10%22%3E">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/username=filipemagarotto&repo=projeto_cenipa&theme=react&border_color=61dafb&border_radius=10">
     </a>
 </div>
 <br/>
