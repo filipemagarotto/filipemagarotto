@@ -12,7 +12,7 @@
       <img align="left" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=filipemagarotto&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/filipemagarotto">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=filipemagarotto&show_icons=true&theme=react&border_color=	61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=filipemagarotto&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
