@@ -8,8 +8,8 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/filipemagarotto/>
-      <img align="left" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=filipemagarotto&theme=react&border=		61dafb&hide_border=true" alt="zumrudu-anka" />
+    <a href="https://github.com/filipemagarotto/">
+      <img align="left" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=filipemagarotto&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/filipemagarotto">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=filipemagarotto&show_icons=true&theme=react&border_color=	61dafb&hide_border=true" />
@@ -18,7 +18,7 @@
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/filipemagarotto">
-        <img align="center" width=330 heigth=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagarotto" />
+        <img align="center" width=330 heigth=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagarotto&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
