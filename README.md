@@ -8,22 +8,25 @@
 
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="left" width=392 src="https://github-readme-stats.vercel.app/api?username=filipemagarotto&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <a href="https://github.com/filipemagarotto/>
+      <img align="left" width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=filipemagarotto&theme=react&border=		61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagarotto&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_progress=true"/>
+    <a href="https://github.com/filipemagarotto">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=filipemagarotto&show_icons=true&theme=react&border_color=	61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br>
   <div align=center>
+    <a href="https://github.com/filipemagarotto">
+        <img align="center" width=330 heigth=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipemagarotto" />
+    </a>
   </div>
   <br>
 </p>
 
 
 
-## Tecnologias
+## Tecnologias que eu sei
 
 <div style="display:inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white"/>
